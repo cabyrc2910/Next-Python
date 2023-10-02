@@ -5,6 +5,7 @@
 
 import pathlib
 
+
 def sorter(dirname):
     file_list = {}
 
@@ -33,5 +34,5 @@ def sorter(dirname):
 
 
 if __name__ =='__main__':
-    print(*filter(avi=2, jpg=2, txt=2, dir='tmp'), sep="\n")
+    print(*filer(avi=2, jpg=2, txt=2, dir='tmp'), sep="\n")
     print(*sorter("tmp"), sep="\n")
