@@ -1,0 +1,5696 @@
+[
+  {
+    "name": ".",
+    "parent": "",
+    "type": "directory",
+    "size": 1629476
+  },
+  {
+    "name": "1.py",
+    "parent": "",
+    "type": "file",
+    "size": 11506
+  },
+  {
+    "name": "new_file.csv",
+    "parent": "",
+    "type": "file",
+    "size": 15
+  },
+  {
+    "name": "new_file.json",
+    "parent": "",
+    "type": "file",
+    "size": 382
+  },
+  {
+    "name": "new_file.pickle",
+    "parent": "",
+    "type": "file",
+    "size": 252
+  },
+  {
+    "name": "new_file.txt",
+    "parent": "",
+    "type": "file",
+    "size": 131
+  },
+  {
+    "name": "new_file1.txt",
+    "parent": "",
+    "type": "file",
+    "size": 70
+  },
+  {
+    "name": "README.md",
+    "parent": "",
+    "type": "file",
+    "size": 13
+  },
+  {
+    "name": "res.txt",
+    "parent": "",
+    "type": "file",
+    "size": 137
+  },
+  {
+    "name": "task01.csv",
+    "parent": "",
+    "type": "file",
+    "size": 48570
+  },
+  {
+    "name": "task01.json",
+    "parent": "",
+    "type": "file",
+    "size": 119834
+  },
+  {
+    "name": "task01.pickle",
+    "parent": "",
+    "type": "file",
+    "size": 50437
+  },
+  {
+    "name": ".\\.git",
+    "parent": ".",
+    "type": "directory",
+    "size": 673504
+  },
+  {
+    "name": "COMMIT_EDITMSG",
+    "parent": ".",
+    "type": "file",
+    "size": 1102
+  },
+  {
+    "name": "config",
+    "parent": ".",
+    "type": "file",
+    "size": 304
+  },
+  {
+    "name": "description",
+    "parent": ".",
+    "type": "file",
+    "size": 73
+  },
+  {
+    "name": "FETCH_HEAD",
+    "parent": ".",
+    "type": "file",
+    "size": 101
+  },
+  {
+    "name": "HEAD",
+    "parent": ".",
+    "type": "file",
+    "size": 21
+  },
+  {
+    "name": "index",
+    "parent": ".",
+    "type": "file",
+    "size": 16427
+  },
+  {
+    "name": "ORIG_HEAD",
+    "parent": ".",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "packed-refs",
+    "parent": ".",
+    "type": "file",
+    "size": 112
+  },
+  {
+    "name": ".\\.git\\hooks",
+    "parent": ".\\.git",
+    "type": "directory",
+    "size": 23513
+  },
+  {
+    "name": "applypatch-msg.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 478
+  },
+  {
+    "name": "commit-msg.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 896
+  },
+  {
+    "name": "fsmonitor-watchman.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 4726
+  },
+  {
+    "name": "post-update.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 189
+  },
+  {
+    "name": "pre-applypatch.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 424
+  },
+  {
+    "name": "pre-commit.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 1643
+  },
+  {
+    "name": "pre-merge-commit.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 416
+  },
+  {
+    "name": "pre-push.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 1374
+  },
+  {
+    "name": "pre-rebase.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 4898
+  },
+  {
+    "name": "pre-receive.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 544
+  },
+  {
+    "name": "prepare-commit-msg.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 1492
+  },
+  {
+    "name": "push-to-checkout.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 2783
+  },
+  {
+    "name": "update.sample",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 3650
+  },
+  {
+    "name": ".\\.git\\info",
+    "parent": ".\\.git",
+    "type": "directory",
+    "size": 240
+  },
+  {
+    "name": "exclude",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 240
+  },
+  {
+    "name": ".\\.git\\logs",
+    "parent": ".\\.git",
+    "type": "directory",
+    "size": 13437
+  },
+  {
+    "name": "HEAD",
+    "parent": ".\\.git",
+    "type": "file",
+    "size": 4709
+  },
+  {
+    "name": ".\\.git\\logs\\refs",
+    "parent": ".\\.git\\logs",
+    "type": "directory",
+    "size": 8728
+  },
+  {
+    "name": ".\\.git\\logs\\refs\\heads",
+    "parent": ".\\.git\\logs\\refs",
+    "type": "directory",
+    "size": 4709
+  },
+  {
+    "name": "main",
+    "parent": ".\\.git\\logs\\refs",
+    "type": "file",
+    "size": 4709
+  },
+  {
+    "name": ".\\.git\\logs\\refs\\remotes",
+    "parent": ".\\.git\\logs\\refs",
+    "type": "directory",
+    "size": 4019
+  },
+  {
+    "name": ".\\.git\\logs\\refs\\remotes\\origin",
+    "parent": ".\\.git\\logs\\refs\\remotes",
+    "type": "directory",
+    "size": 4019
+  },
+  {
+    "name": "HEAD",
+    "parent": ".\\.git\\logs\\refs\\remotes",
+    "type": "file",
+    "size": 185
+  },
+  {
+    "name": "main",
+    "parent": ".\\.git\\logs\\refs\\remotes",
+    "type": "file",
+    "size": 3834
+  },
+  {
+    "name": ".\\.git\\objects",
+    "parent": ".\\.git",
+    "type": "directory",
+    "size": 618021
+  },
+  {
+    "name": ".\\.git\\objects\\00",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4437
+  },
+  {
+    "name": "28eafe3ffcf32c04c036849ce53d34d1e6d366",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2883
+  },
+  {
+    "name": "6afb8092bef7eaf33e742f36d69ca4d98f9723",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 282
+  },
+  {
+    "name": "73049a5e06171c5ec10678df161d81aff0acda",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1272
+  },
+  {
+    "name": ".\\.git\\objects\\03",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 99
+  },
+  {
+    "name": "a28f5e9c2fa24c806f72a3bc929371239f7409",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 99
+  },
+  {
+    "name": ".\\.git\\objects\\04",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 291
+  },
+  {
+    "name": "57e428769c7e031283c04be6f078cd4526b28d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 172
+  },
+  {
+    "name": "5aa5a664e3ace94cc08299869af7fddb5f4aa5",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 119
+  },
+  {
+    "name": ".\\.git\\objects\\05",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3831
+  },
+  {
+    "name": "2367c3c18fbc2ec0d0e6f95420cf94e5cb080b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": "32ce1aabc5deafe095dae6df520520c5b297b3",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3658
+  },
+  {
+    "name": ".\\.git\\objects\\06",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 494
+  },
+  {
+    "name": "23b72a932e8f8304e999a7ade51c0893273c49",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 297
+  },
+  {
+    "name": "25e6d5658d11b531acc11534f2c7bf32f997fa",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 197
+  },
+  {
+    "name": ".\\.git\\objects\\08",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 840
+  },
+  {
+    "name": "883d378b0b30f4077de8604a75fec87fce1610",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 520
+  },
+  {
+    "name": "99fcf05bf579a41275c65f9acc6ac947ea3d76",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 320
+  },
+  {
+    "name": ".\\.git\\objects\\09",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 68
+  },
+  {
+    "name": "5380bced9e740bc710e2670af0b9234095176a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 68
+  },
+  {
+    "name": ".\\.git\\objects\\0a",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 485
+  },
+  {
+    "name": "5c37f72563db60e87b5adf9cbcfab64c3d38b7",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 308
+  },
+  {
+    "name": "adcea94a87f2e9a6d2669f3cc9e077ec3be88d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 177
+  },
+  {
+    "name": ".\\.git\\objects\\0b",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3748
+  },
+  {
+    "name": "77adaecea4e9027f7ae6ba16b3a3a3b6a59d9e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 211
+  },
+  {
+    "name": "8b9bd87bb96de409ff3087c1da9f3c1da93404",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 60
+  },
+  {
+    "name": "cdeb82f4e76b963f30180faeff271b4a5fbe5e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3477
+  },
+  {
+    "name": ".\\.git\\objects\\0e",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2305
+  },
+  {
+    "name": "4be5997a5939578cb56257a8c31cb51e341943",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 174
+  },
+  {
+    "name": "84364868d756df350640165fe189c2ac4572bc",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": "b04d7549ab3a3afb903a2b4b069115d34c21aa",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2075
+  },
+  {
+    "name": ".\\.git\\objects\\0f",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1868
+  },
+  {
+    "name": "3746073b82b39166e59299b8b848a2db8dc01d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1868
+  },
+  {
+    "name": ".\\.git\\objects\\10",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 974
+  },
+  {
+    "name": "15c6521982a5618c6bae25e652cd58307bf3b3",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 125
+  },
+  {
+    "name": "5ce2da2d6447d11dfe32bfb846c3d5b199fc99",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 142
+  },
+  {
+    "name": "b26ed8c5535594f0987b0b7a43a6f9f872f1ee",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 342
+  },
+  {
+    "name": "ba2d87424d0d71117ebcad1d0060f4c1f9cacf",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 365
+  },
+  {
+    "name": ".\\.git\\objects\\11",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 288
+  },
+  {
+    "name": "3a86f268fd5c8c769ee1e8bb4c1e21a9f78270",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 232
+  },
+  {
+    "name": "52ed74fef7cbfbf2042986b4eaecfbffdc2bf3",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": ".\\.git\\objects\\12",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2760
+  },
+  {
+    "name": "3e72c3255830d842b32b62c2bd58dc6acce490",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2351
+  },
+  {
+    "name": "a60df5d98eae0f2413a18ceb07980ffef0e866",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 409
+  },
+  {
+    "name": ".\\.git\\objects\\13",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4302
+  },
+  {
+    "name": "76f362b65d398803f1c30bfdda5218c4b84e93",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 454
+  },
+  {
+    "name": "da2989fbbb0fdd13e30d012ed15481b7781151",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3536
+  },
+  {
+    "name": "e525ea0b16755d57934838e5781b28a5d8a34f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 312
+  },
+  {
+    "name": ".\\.git\\objects\\14",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 487
+  },
+  {
+    "name": "97485893e53c85f448fdb2506e6d3e70b4acaf",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 431
+  },
+  {
+    "name": "fa5584757062751d4eab0bb41ec3af0d906c95",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": ".\\.git\\objects\\15",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 5467
+  },
+  {
+    "name": "2610cbb381cd7eed4f1b6096a6925932a19570",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1945
+  },
+  {
+    "name": "eaba4ecd8d128199faa8cd07cee9647372ddfd",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3522
+  },
+  {
+    "name": ".\\.git\\objects\\16",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 261
+  },
+  {
+    "name": "b689a84d2b65efd98eb0e5eb3dbf6506234598",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 261
+  },
+  {
+    "name": ".\\.git\\objects\\17",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3030
+  },
+  {
+    "name": "137ed618d821c4e044e7fe45931d7adc002e21",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3030
+  },
+  {
+    "name": ".\\.git\\objects\\18",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 377
+  },
+  {
+    "name": "076c1e6e0b1e9e76a499e2248c406992f865bf",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 127
+  },
+  {
+    "name": "079e73551210790e667536a3f3db42878276f2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 148
+  },
+  {
+    "name": "6f1f6026f761f2a44ee76279f95f45e5ccd1a3",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 102
+  },
+  {
+    "name": ".\\.git\\objects\\19",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 201
+  },
+  {
+    "name": "670181b53d0e29a5f171ff333885b7fef7aa40",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 201
+  },
+  {
+    "name": ".\\.git\\objects\\1a",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1316
+  },
+  {
+    "name": "5b4eb6fbf1ed31a7b7d93d75b3507737368c0e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 595
+  },
+  {
+    "name": "ad9becefa5bf5027a36388fe56ccfff8bbd1d5",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 721
+  },
+  {
+    "name": ".\\.git\\objects\\1b",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 121
+  },
+  {
+    "name": "4d1c6e54ff047984a5f06ed424bc9bdbc622a2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 121
+  },
+  {
+    "name": ".\\.git\\objects\\1c",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 611
+  },
+  {
+    "name": "5513ad7d5091c377e8a2fa65b3bcec5b547318",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 296
+  },
+  {
+    "name": "c2c3cfb4f5e8bfd2202e64bf99bf50955932fd",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 315
+  },
+  {
+    "name": ".\\.git\\objects\\1d",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 149
+  },
+  {
+    "name": "eb2ca18736891600594df3948851aeca2c015c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 149
+  },
+  {
+    "name": ".\\.git\\objects\\1e",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 457
+  },
+  {
+    "name": "091b3ae22d81febdda5afd10642a32c35e93cf",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 401
+  },
+  {
+    "name": "c44fcb000d7696abe4fec369d8ca76d431b488",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": ".\\.git\\objects\\1f",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1459
+  },
+  {
+    "name": "3cd3bc13a1254d638830e9571f4850e8ddf01e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 71
+  },
+  {
+    "name": "4e42ba287c676b135ba8359687ec887bdff6bf",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 160
+  },
+  {
+    "name": "f72e609135c453486e5d17524b41b39aa7f58f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1228
+  },
+  {
+    "name": ".\\.git\\objects\\20",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1081
+  },
+  {
+    "name": "61425de76f85ef8d9409a2d9507acff9831206",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1051
+  },
+  {
+    "name": "7d5ed32ec673dfebcddad375465720bbcab05f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 30
+  },
+  {
+    "name": ".\\.git\\objects\\21",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2764
+  },
+  {
+    "name": "68c6eea041b34659d8c96e11052a443e8093d2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 193
+  },
+  {
+    "name": "9e4f7fb4fee04c54d0758536a23ba740333272",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": "ab6fff3a324a943aa1f6b7d0ef5dcfff1d4b99",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2344
+  },
+  {
+    "name": "c3292f1a9adec1e8f10884b209f010ad31c2b6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 54
+  },
+  {
+    "name": ".\\.git\\objects\\22",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 26241
+  },
+  {
+    "name": "228877c79e771788438f0e3462e9d5660bf364",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 25627
+  },
+  {
+    "name": "c93666b383f4f254b6ea3f94e15f6e9ceb56f6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 614
+  },
+  {
+    "name": ".\\.git\\objects\\23",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 294
+  },
+  {
+    "name": "a405dda8fbe85d3a1efac2707254da6605c8b1",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 294
+  },
+  {
+    "name": ".\\.git\\objects\\24",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1565
+  },
+  {
+    "name": "0156a77aa28d9d6bc2fb39ab16a1acb7db1a50",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1565
+  },
+  {
+    "name": ".\\.git\\objects\\25",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 201
+  },
+  {
+    "name": "3a5b26442ea9a114c067a824c68bce4823216e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 201
+  },
+  {
+    "name": ".\\.git\\objects\\26",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3069
+  },
+  {
+    "name": "301f1a84736b6203af898bef95aaf5bc1b9538",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 174
+  },
+  {
+    "name": "795e91f2bbf3c5b3de149dacebcb4e87c938b4",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2832
+  },
+  {
+    "name": "d33521af10bcc7fd8cea344038eaaeb78d0ef5",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 63
+  },
+  {
+    "name": ".\\.git\\objects\\27",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 729
+  },
+  {
+    "name": "b496e78703673dffb634f6d7c11a6447ff06f8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 729
+  },
+  {
+    "name": ".\\.git\\objects\\28",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 128
+  },
+  {
+    "name": "fcb0409be55b517705cb9054a701085360196a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 128
+  },
+  {
+    "name": ".\\.git\\objects\\29",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 728
+  },
+  {
+    "name": "009963b50e4fe70c95a9e054b0fcb75e0a7b2a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 231
+  },
+  {
+    "name": "f5781c3cfce58a23a4c6b1ff9a6e5c4eb4ed05",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 497
+  },
+  {
+    "name": ".\\.git\\objects\\2b",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1319
+  },
+  {
+    "name": "88adbd75f0fe6d5a42c51c5f3fe911e821dbd5",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 435
+  },
+  {
+    "name": "ee8c4d49e8d640c6901c2150f91a864d21b335",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 884
+  },
+  {
+    "name": ".\\.git\\objects\\2c",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1128
+  },
+  {
+    "name": "d6a2d8e5720b04bb7b4b21584505da9df4cef8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 147
+  },
+  {
+    "name": "d79850f0c8e12ee01a48c7e4df6548f50992d2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 981
+  },
+  {
+    "name": ".\\.git\\objects\\2d",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1143
+  },
+  {
+    "name": "071f2fe627f47c04820b5eefb598aaeb85be17",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 332
+  },
+  {
+    "name": "1790bbc81fabae3fbf2eb52890ece735b66990",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": "6c1f7b2efc1756d8fa443596d024190eba89a9",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 755
+  },
+  {
+    "name": ".\\.git\\objects\\2e",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 930
+  },
+  {
+    "name": "24d4c106003803f9ae34ffb7fed4cd228abbb2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 423
+  },
+  {
+    "name": "d87df54194548db19676005eec5314bed10e5c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 507
+  },
+  {
+    "name": ".\\.git\\objects\\2f",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1150
+  },
+  {
+    "name": "96f3a567f86818855dad700428658d0e626f10",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1150
+  },
+  {
+    "name": ".\\.git\\objects\\30",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 5659
+  },
+  {
+    "name": "8a1b336d24b3a1d0a6be72dec44e95e993b882",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 882
+  },
+  {
+    "name": "bfb0380e6c76d204a0d897f26ddf21b6a074e4",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3966
+  },
+  {
+    "name": "d6beed0f694bcf7e759562349a52f83ecf83de",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 85
+  },
+  {
+    "name": "da7826e71e5c56ec7e874d0e509102c91113ae",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 137
+  },
+  {
+    "name": "ecebcc8d432a390484bc4084011570ab8282ca",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 589
+  },
+  {
+    "name": ".\\.git\\objects\\31",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 317
+  },
+  {
+    "name": "8ed3524b7ef6b82405cf838c4bcdcfdf44c7d9",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 317
+  },
+  {
+    "name": ".\\.git\\objects\\32",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 662
+  },
+  {
+    "name": "64f06e31d8c9d53b240d2ef20d1920eb571491",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 563
+  },
+  {
+    "name": "f0aaff9ecffb3a5a11223bca666971653bd819",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 99
+  },
+  {
+    "name": ".\\.git\\objects\\33",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1165
+  },
+  {
+    "name": "096d8b0b9a8efd82ef21a1cd0db9411bda80da",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 433
+  },
+  {
+    "name": "5a32ffaa9716ee292f1516770813a827f76d39",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 489
+  },
+  {
+    "name": "b1322eebd2bb7291a56a10ce7ff538329dc1ba",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 243
+  },
+  {
+    "name": ".\\.git\\objects\\34",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1018
+  },
+  {
+    "name": "00999e1597bb28b1b09c331821a73a981811ea",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 363
+  },
+  {
+    "name": "1d7b9eb73d1d79ad90c2fc94e33de7e935760f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 286
+  },
+  {
+    "name": "506ec0c3a27d64856785f5bb68ed07996c0893",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 137
+  },
+  {
+    "name": "cef766846ba34423b8604e1021fecec9fcd383",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 232
+  },
+  {
+    "name": ".\\.git\\objects\\35",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1534
+  },
+  {
+    "name": "34f8ff577b6efe1bfa4f590c6bbe6bfc3c82b8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1394
+  },
+  {
+    "name": "eb1ddfbbc029bcab630581847471d7f238ec53",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 140
+  },
+  {
+    "name": ".\\.git\\objects\\36",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 169
+  },
+  {
+    "name": "3fcab7ed6e9634e198cf5555ceb88932c9a245",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 71
+  },
+  {
+    "name": "46a2ef274051b268ed0919e0bc7acbd11ab1e3",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 98
+  },
+  {
+    "name": ".\\.git\\objects\\37",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 27336
+  },
+  {
+    "name": "06605050df349d6956a638ef34216a03e36759",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 112
+  },
+  {
+    "name": "b659fc1bfae19b00051e1d0328717bde3f76cb",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1734
+  },
+  {
+    "name": "eba262bff167fcb3147826086d6e080ffb34f5",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 25490
+  },
+  {
+    "name": ".\\.git\\objects\\38",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 319
+  },
+  {
+    "name": "22987d1957c143e8942fab25a44673820dae04",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": "8cfeba9849aeb7f0f86a65aa1201b3011f895e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 263
+  },
+  {
+    "name": ".\\.git\\objects\\39",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 730
+  },
+  {
+    "name": "998ed6bc2c487db3fa79fd57d5e834686f3a9f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 730
+  },
+  {
+    "name": ".\\.git\\objects\\3a",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1779
+  },
+  {
+    "name": "6286c6bacb2a7252752623c7ce891ecafba093",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 768
+  },
+  {
+    "name": "fe9633d9c82d67ad4b2aacc33e504fa19fce1e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1011
+  },
+  {
+    "name": ".\\.git\\objects\\3c",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2308
+  },
+  {
+    "name": "a585e8035b58d9862868e0553d56f2b002896c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2158
+  },
+  {
+    "name": "fe042fb59bee9b1eeb3630cd3789478c71e25e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 150
+  },
+  {
+    "name": ".\\.git\\objects\\3d",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4272
+  },
+  {
+    "name": "3534481c64a03195e6c87b2213020815ecf971",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 77
+  },
+  {
+    "name": "4e0e73f776440da8cf37eb8b79a7d8ef52a389",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 171
+  },
+  {
+    "name": "56b896b23557aecc3592483c02829581d2b3a6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 4024
+  },
+  {
+    "name": ".\\.git\\objects\\3e",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 172
+  },
+  {
+    "name": "1b9dec2ba68496ceea9f5c63c0bb3d5bcdc4b6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 172
+  },
+  {
+    "name": ".\\.git\\objects\\40",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 16329
+  },
+  {
+    "name": "0344ca59d36154f91ff87fd6ab6f2d08b166e6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 616
+  },
+  {
+    "name": "3701047e9078c5bf00fa4c856e1c6b4fac497c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3719
+  },
+  {
+    "name": "687b7843f504f993d5f5f41e94305248ecdd37",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3064
+  },
+  {
+    "name": "6896bb94e5d1234c3c2bb23ebe9e417ea08189",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3234
+  },
+  {
+    "name": "7f8d11c8338be4775beab1db9bcb0b9d1d630a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2192
+  },
+  {
+    "name": "8537115fee30737cdc047fd7e9f38c4eda691b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1446
+  },
+  {
+    "name": "df78e48abb84d7a2740ef6ebba054fef97c937",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2058
+  },
+  {
+    "name": ".\\.git\\objects\\41",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3139
+  },
+  {
+    "name": "244448d150db30f9eb6c834f11ff3aa6046d7f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3052
+  },
+  {
+    "name": "d9973937aaee7331575f3f4479de58e418685b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 87
+  },
+  {
+    "name": ".\\.git\\objects\\42",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 797
+  },
+  {
+    "name": "64298a51a2b4259422ecee990b31d1db3f5e07",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 797
+  },
+  {
+    "name": ".\\.git\\objects\\43",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 590
+  },
+  {
+    "name": "bb43e659c1193345d6cb006638a2e616583697",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 468
+  },
+  {
+    "name": "e15b196da03633245d7edf8ef25bb579f6bc79",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 122
+  },
+  {
+    "name": ".\\.git\\objects\\44",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1066
+  },
+  {
+    "name": "158f1f0dfd7551ef3ec2ec3a70e85433ff7dba",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 51
+  },
+  {
+    "name": "350b8b5be5c042a8b56814235e7bbf1acae1c1",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": "4223515d4ba19b3ac27f0311ffc46b3bd91838",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 97
+  },
+  {
+    "name": "9e25fdc838e5e1830ac0616017d1eed340a98f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 761
+  },
+  {
+    "name": "bc601c3452967a24ad8b7fa5c8b27eb46d35fd",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 101
+  },
+  {
+    "name": ".\\.git\\objects\\45",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4985
+  },
+  {
+    "name": "8da1dd9342b39fa05d62d4081f38233e1c80f1",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2457
+  },
+  {
+    "name": "b24bf8e18f7412f27f137bad371d7880f7276e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2528
+  },
+  {
+    "name": ".\\.git\\objects\\46",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1686
+  },
+  {
+    "name": "07b194a1341888b2e59258f97b0e9431a93627",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1114
+  },
+  {
+    "name": "9fd6cc010c6644a0815ce72bafe76579f1a334",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 263
+  },
+  {
+    "name": "a32cc8c6a339c33315a81427aae02e7909ba6e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 309
+  },
+  {
+    "name": ".\\.git\\objects\\48",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1489
+  },
+  {
+    "name": "c924f06e22035e2fe08113523f99b3c6b03ac9",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1318
+  },
+  {
+    "name": "f5117e4ae0cc48a4ad57263344a45a6b164b15",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 171
+  },
+  {
+    "name": ".\\.git\\objects\\49",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4200
+  },
+  {
+    "name": "01ffada02a91030d7e172f3ea7656bf963d787",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 98
+  },
+  {
+    "name": "1eb8ad491b9070745fa0d24c7e4dfe2c69835e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 531
+  },
+  {
+    "name": "73d4db16182ab912e44e72ec236fd0ba30912f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 261
+  },
+  {
+    "name": "89f83ee2bd7db322b3e42fd0fa2106f1cb8b71",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3310
+  },
+  {
+    "name": ".\\.git\\objects\\4a",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1497
+  },
+  {
+    "name": "28a0d093c15952ac96b88d4eb6cbe62611e43f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 142
+  },
+  {
+    "name": "34c237e946789ecaaeaa4974feff46e6e63f84",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 524
+  },
+  {
+    "name": "a797765dc24fa57f6662437c2d88bff538183a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 831
+  },
+  {
+    "name": ".\\.git\\objects\\4b",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3455
+  },
+  {
+    "name": "93ffde9dd439e4f9cfa7a952940e400aa78605",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3455
+  },
+  {
+    "name": ".\\.git\\objects\\4c",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2513
+  },
+  {
+    "name": "1551a490ae4a4a78a58e58e663ea97c098015e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1103
+  },
+  {
+    "name": "f4601b1fb8cf8c0dc9aaf858df4b40f57d31be",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1410
+  },
+  {
+    "name": ".\\.git\\objects\\4d",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 6549
+  },
+  {
+    "name": "03aca29af96c98cf6de1dac05466c64dca1ead",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 5290
+  },
+  {
+    "name": "61a169254d99127e21cc83da39767cf27b6b7b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1259
+  },
+  {
+    "name": ".\\.git\\objects\\4e",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 173
+  },
+  {
+    "name": "d59a27df303616e8746ef541eb49c72ba24dc0",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": ".\\.git\\objects\\4f",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 282
+  },
+  {
+    "name": "3c744567d529232bf411fc20ad7ff108ad0ba1",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 82
+  },
+  {
+    "name": "9310e497ac312fe0eabf9baf73c9362c742344",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 200
+  },
+  {
+    "name": ".\\.git\\objects\\50",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 156
+  },
+  {
+    "name": "61189172aa48ffa5df9ac4aa315c37e53084ce",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 100
+  },
+  {
+    "name": "fa5fd3aec139a0a6769d56de927dbc64be8928",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": ".\\.git\\objects\\53",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 26811
+  },
+  {
+    "name": "b30ebb6c92b011093d2e07990acaf0a783b553",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 25457
+  },
+  {
+    "name": "c1e74c06328d8dd4ecf642248b918e206dae4f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1164
+  },
+  {
+    "name": "dd74cf57087ee1e1f9ed04262042d08a955685",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": "e66903ff7f03f924f91e80bee4d24631b77176",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 134
+  },
+  {
+    "name": ".\\.git\\objects\\54",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1500
+  },
+  {
+    "name": "6a02ea5321fbfc9bb703d58f936cecbf53758d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1500
+  },
+  {
+    "name": ".\\.git\\objects\\55",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2525
+  },
+  {
+    "name": "3b6461980ca8eef3b66e34d1cb2a53ebdf793c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2525
+  },
+  {
+    "name": ".\\.git\\objects\\56",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2952
+  },
+  {
+    "name": "02430b455f05e7bf146faae8ea709963653b5a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2194
+  },
+  {
+    "name": "25c786590d4a32bf987ca9a9259770e99ac7ec",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": "7830db180a347bca6be407fb3145a408d98ade",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 154
+  },
+  {
+    "name": "7b0901d52f2bccc4cce6472919e39bb8000b5f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 176
+  },
+  {
+    "name": "94566cbee2bd0d7ac8788ce12841e4cbb13786",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 255
+  },
+  {
+    "name": ".\\.git\\objects\\57",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 17344
+  },
+  {
+    "name": "109c641f8af196cd1ea3ca9ee9f15970a1491b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 255
+  },
+  {
+    "name": "191e2103d29155994038369054e1954591cc7b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 16915
+  },
+  {
+    "name": "73f15f8b0605e4c994b17daaead10a75d6a761",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 174
+  },
+  {
+    "name": ".\\.git\\objects\\58",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 489
+  },
+  {
+    "name": "38653f4a9f4b4348d5860a736f03a45f6c5216",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 317
+  },
+  {
+    "name": "eca6f8bed18ce0d3c58d053bfb169efecfd728",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 172
+  },
+  {
+    "name": ".\\.git\\objects\\5a",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 440
+  },
+  {
+    "name": "5ffdef28ee8cd7631422d18f1e64feee536491",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 127
+  },
+  {
+    "name": "f996b1f3273e491f809af2649bd45a7abedde9",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 313
+  },
+  {
+    "name": ".\\.git\\objects\\5b",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4198
+  },
+  {
+    "name": "870f023a47c2cfcf2f179223f52638e047c903",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 555
+  },
+  {
+    "name": "8b3e8cd68e96034b73dea3991c474d9a4ba009",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 325
+  },
+  {
+    "name": "937bdc270e1afe09e33801cca37ea6787d781e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3318
+  },
+  {
+    "name": ".\\.git\\objects\\5c",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 296
+  },
+  {
+    "name": "62a8004c9f6daaff0207b8495e06297e7b6d1e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": "747d9d679961ee99b0c7dfca0594621b54e890",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 123
+  },
+  {
+    "name": ".\\.git\\objects\\5d",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 599
+  },
+  {
+    "name": "768eac5e395dd84db8bd9ff95a6f758724b42c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 599
+  },
+  {
+    "name": ".\\.git\\objects\\5e",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1314
+  },
+  {
+    "name": "17f3758f05b96c4e4033381b4178e022814e92",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 490
+  },
+  {
+    "name": "7df4ce55d4cfb8ad2343437f85077a30a14e2f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 824
+  },
+  {
+    "name": ".\\.git\\objects\\5f",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2041
+  },
+  {
+    "name": "1f5719cc4d57736a7bf798f11f97fbd01b2c10",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1477
+  },
+  {
+    "name": "9db5130e31bb7d4a692e392c339733134c02b1",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 280
+  },
+  {
+    "name": "a998b186a94918a476d3ea04aa41706d58b456",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 118
+  },
+  {
+    "name": "b950fa89f8430926af31b6aabcf2889e34d874",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 166
+  },
+  {
+    "name": ".\\.git\\objects\\61",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 819
+  },
+  {
+    "name": "884db8dbc49f9fdb7e799f1b9417b11302a4d6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 256
+  },
+  {
+    "name": "8d5b88aff70913fdb29c143e6db3d796e811e3",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 563
+  },
+  {
+    "name": ".\\.git\\objects\\62",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 305
+  },
+  {
+    "name": "c1a7abee64fc0c68a6b716ef415bcbbcef0e36",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 305
+  },
+  {
+    "name": ".\\.git\\objects\\63",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 14230
+  },
+  {
+    "name": "2ed3a5b50f6f366c98a84e778351f66700a22d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2192
+  },
+  {
+    "name": "a8ea8c3fe5f452047544e220ee5b8413921e7a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1919
+  },
+  {
+    "name": "c445e681d85ef5230105844f00d687c916a99e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 10063
+  },
+  {
+    "name": "f55b6c7d523e252d193e4da86476a444f4c920",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": ".\\.git\\objects\\64",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2235
+  },
+  {
+    "name": "072170a74b3fe4cb5ffba04c7b3a89c685f666",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2146
+  },
+  {
+    "name": "29c23d34c2aa9408ca1df1831703f26373ab86",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 89
+  },
+  {
+    "name": ".\\.git\\objects\\65",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3443
+  },
+  {
+    "name": "1cb3c2543c8d0d1d156d97075171dcc71049a2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1786
+  },
+  {
+    "name": "8808a02e489f01acd9190288bf37af28018c2e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 71
+  },
+  {
+    "name": "91171fbdcabb79c0bacd49f4377dcb68f4d0d7",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1586
+  },
+  {
+    "name": ".\\.git\\objects\\66",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 19090
+  },
+  {
+    "name": "2ee29d08b2aa14e4d6df576783bb653305e489",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 560
+  },
+  {
+    "name": "7e77b346b1cc9c656cde91c5aa42d6647b6d40",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 18530
+  },
+  {
+    "name": ".\\.git\\objects\\67",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1922
+  },
+  {
+    "name": "1d1a9ef5aff5d7afda5eb6e0ad72e0c628d0d3",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1255
+  },
+  {
+    "name": "3f88b0ed6040c364671506d542f11b27018d86",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 639
+  },
+  {
+    "name": "69dd60bdf536a83c9353272157893043e9f7d0",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 28
+  },
+  {
+    "name": ".\\.git\\objects\\69",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1002
+  },
+  {
+    "name": "70bec0f4ee340f6a969c6c193e47a931903754",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1002
+  },
+  {
+    "name": ".\\.git\\objects\\6a",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1944
+  },
+  {
+    "name": "268d382223a1a52c50fef4a3d1b68a97baf89e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 171
+  },
+  {
+    "name": "419764a4cd5c2835f1c36491d92fc467c2f211",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 461
+  },
+  {
+    "name": "a0af9c4c8f5b3e82bf8bbf57280ee51a996827",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1312
+  },
+  {
+    "name": ".\\.git\\objects\\6b",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1541
+  },
+  {
+    "name": "1e2e9720003d1496569de12f0dff462d78313a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 918
+  },
+  {
+    "name": "acb4c4026540478b579ea9f59002a012e8254b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 450
+  },
+  {
+    "name": "c0153961eac333f7b7fdab2b13f6604903a587",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": ".\\.git\\objects\\6c",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1097
+  },
+  {
+    "name": "17816281de367a9b3b0e9bb41912ffb9086422",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 172
+  },
+  {
+    "name": "57888571f2441a565999fcb45017b82351e670",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 512
+  },
+  {
+    "name": "9055770d9d99cd9be1280ddac74e188dba3ab7",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 238
+  },
+  {
+    "name": "a319c7d749ba64f7179332c78549216bccc3c8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 175
+  },
+  {
+    "name": ".\\.git\\objects\\6e",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 619
+  },
+  {
+    "name": "0aa121f1a532540f6a5b479cc6ab2ab4221889",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 299
+  },
+  {
+    "name": "330e46304a662e4c2e112d8c3fc1d37745f4fd",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 264
+  },
+  {
+    "name": "def95091bf229e3617ddaeb4e6368ed81da4d9",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": ".\\.git\\objects\\6f",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1055
+  },
+  {
+    "name": "84482fa9fac535f9e109b42c6c12a4ab74d278",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": "93073142a514f8ac33b0e6092622fdb229eee8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 882
+  },
+  {
+    "name": ".\\.git\\objects\\70",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1264
+  },
+  {
+    "name": "40a2cee04325fe64409e2bb24af1f73ee98de8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 923
+  },
+  {
+    "name": "dc0661efdd7a916ab05f6630c46fe1b8e0f034",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 341
+  },
+  {
+    "name": ".\\.git\\objects\\71",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2137
+  },
+  {
+    "name": "47fba67b9994ca4effa1306164a363f426a9ad",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 61
+  },
+  {
+    "name": "bf5a52cee34ab67afe53b2af6c85ad9c35401f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1674
+  },
+  {
+    "name": "eb867978f389cc05340faea46d068319d4645a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 228
+  },
+  {
+    "name": "eebc54fbe779d5628f075bf9a2884bbf010b2e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 174
+  },
+  {
+    "name": ".\\.git\\objects\\72",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2063
+  },
+  {
+    "name": "9a3a686ca124703fcce4fa77cd3f4318ef2c13",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2063
+  },
+  {
+    "name": ".\\.git\\objects\\73",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2028
+  },
+  {
+    "name": "7585f6f14a52a648d09e0461f149ee8c8c8493",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1776
+  },
+  {
+    "name": "c01d9eb982820d645a2744f82efd72e6d65c7b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 79
+  },
+  {
+    "name": "d545e0d4985d9cf2435054548c49de6b06362b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": ".\\.git\\objects\\74",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 700
+  },
+  {
+    "name": "660507ad40028e020cce3f2f27c6d1d35cb66f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 262
+  },
+  {
+    "name": "f793ff94734d159656be74df8c168f8d34e487",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 438
+  },
+  {
+    "name": ".\\.git\\objects\\75",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 26991
+  },
+  {
+    "name": "1679696ee1c4afe6039831d46ffbae0233c135",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 644
+  },
+  {
+    "name": "52090650d66dbe68e176bcb66cb9a57d154220",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 756
+  },
+  {
+    "name": "5ccce661af2caeafb4b73cac6cdba8a72fee5a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 25509
+  },
+  {
+    "name": "989f86692eb5dca92670e8eca008ea2bd317b6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 82
+  },
+  {
+    "name": ".\\.git\\objects\\76",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 173
+  },
+  {
+    "name": "c4acca22d1da88530130203b7c0e2e94e86714",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": ".\\.git\\objects\\77",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2433
+  },
+  {
+    "name": "5531f97d183bd3efe98b1f96f36bd9f3e8c3a1",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2433
+  },
+  {
+    "name": ".\\.git\\objects\\79",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1202
+  },
+  {
+    "name": "5526fcf40d269551d4c6164898a6b40859f9f6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 272
+  },
+  {
+    "name": "77f0971df465bf6883f6b144d4d5f13ec9bc46",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 930
+  },
+  {
+    "name": ".\\.git\\objects\\7a",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3684
+  },
+  {
+    "name": "442ac09de12244315a660da517f9a954f89108",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 157
+  },
+  {
+    "name": "51cb73ac756b6c64373c0d21d6048d4dcd0489",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 197
+  },
+  {
+    "name": "80f7332d44e8013a75864ce3a072fee1ad009c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3330
+  },
+  {
+    "name": ".\\.git\\objects\\7c",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 396
+  },
+  {
+    "name": "2791f67134fb6b632961418471bfcafc15e66a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 396
+  },
+  {
+    "name": ".\\.git\\objects\\7d",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2233
+  },
+  {
+    "name": "2a2563fc66afde2f7acf0f247b0a837a0ac934",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1819
+  },
+  {
+    "name": "58a89c29b51c2a2508cb8d0ba808320ba1ebee",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 232
+  },
+  {
+    "name": "59e255a27071b0a4776e3eeaf5d8b776cf0904",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 182
+  },
+  {
+    "name": ".\\.git\\objects\\7e",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 270
+  },
+  {
+    "name": "c09d72178f6454fa7c0634885c2fdfd557b3ba",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 174
+  },
+  {
+    "name": "daaeb3ebdcfeae1a0e29fad35d46922514a296",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 96
+  },
+  {
+    "name": ".\\.git\\objects\\7f",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 584
+  },
+  {
+    "name": "e745f41fb73df43655b0e3e2fc086c4f752105",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 584
+  },
+  {
+    "name": ".\\.git\\objects\\81",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2051
+  },
+  {
+    "name": "01e648f51cee20bcad7f49d539f1e56dcee536",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 315
+  },
+  {
+    "name": "56b7316fd78689440bbd96c54d064d2e87b8b0",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 463
+  },
+  {
+    "name": "84da267bfc43a64bc2fea02cd6f7cf9e150c62",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1273
+  },
+  {
+    "name": ".\\.git\\objects\\82",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 173
+  },
+  {
+    "name": "f01b4d8609515e07e2829e4881dcfa5923efe5",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": ".\\.git\\objects\\85",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 161
+  },
+  {
+    "name": "7cf5636d0146f161232941dbf1fd7595234dd8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 161
+  },
+  {
+    "name": ".\\.git\\objects\\87",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1010
+  },
+  {
+    "name": "6d5289b1e48625efad2cd98b8931eeea6d8023",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 98
+  },
+  {
+    "name": "eeacd3bca1d4cef5bda1910d9d7e093c5a7e5c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 912
+  },
+  {
+    "name": ".\\.git\\objects\\89",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3868
+  },
+  {
+    "name": "f3cc73229caa643f588ee881060663c32f0b74",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 72
+  },
+  {
+    "name": "f588c27685174e9c6f6f5952c83e9e96d68d20",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 647
+  },
+  {
+    "name": "f5b9589a28c12d0365993accee5327a2a88f77",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2569
+  },
+  {
+    "name": "fc8ccdee3fb4decf54884db65a1645df8d2b23",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 580
+  },
+  {
+    "name": ".\\.git\\objects\\8a",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2769
+  },
+  {
+    "name": "4534cf0a639d8d9f988224ceef956bac5e66f2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2769
+  },
+  {
+    "name": ".\\.git\\objects\\8b",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 5821
+  },
+  {
+    "name": "0ab5662c5b88d03bf209c4ccc5d33910dbc01a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 4072
+  },
+  {
+    "name": "6b494fa86f1cc6cd80761a4a56a348806ef13f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1749
+  },
+  {
+    "name": ".\\.git\\objects\\8c",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 175
+  },
+  {
+    "name": "4c637412d78ceb8967e2b1554971ebf166e54d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 175
+  },
+  {
+    "name": ".\\.git\\objects\\8d",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3152
+  },
+  {
+    "name": "9e32ba2fe033c5db91170d5a22c50922ac6d4e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3152
+  },
+  {
+    "name": ".\\.git\\objects\\8f",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 17168
+  },
+  {
+    "name": "df1255c576acabd8d782a919ca385ed85171a3",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 961
+  },
+  {
+    "name": "fa97de6da441d50876c3e16f117b830e37288a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 16207
+  },
+  {
+    "name": ".\\.git\\objects\\90",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2184
+  },
+  {
+    "name": "aebcbcb1e3044174cc226ec358a77a1f2e5676",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2184
+  },
+  {
+    "name": ".\\.git\\objects\\91",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1233
+  },
+  {
+    "name": "0d86c2be020981cf39d0cd7c712a1cc07858b4",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 68
+  },
+  {
+    "name": "1c4ecddc0131c1f9c428b40f8562292fc7cdbb",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 96
+  },
+  {
+    "name": "dff4d7f08a1761aab6e6aa1804181a72f856ac",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1069
+  },
+  {
+    "name": ".\\.git\\objects\\92",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2515
+  },
+  {
+    "name": "c49e8cf4562f85c37bf597fb2880e28b886013",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2515
+  },
+  {
+    "name": ".\\.git\\objects\\93",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 922
+  },
+  {
+    "name": "07298062a36aeb3a09f6866953062f2bedbeca",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 738
+  },
+  {
+    "name": "bab9f06120e02169dc67207552e523e4b8ae9c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 184
+  },
+  {
+    "name": ".\\.git\\objects\\97",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1862
+  },
+  {
+    "name": "4951bd5279e21053fec4d987d74ff517b9b59e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1665
+  },
+  {
+    "name": "824ec9b0149e48c91dce4fee530335b327c686",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 66
+  },
+  {
+    "name": "8ce870e2b362235574173f0743a098b76a0b3e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 63
+  },
+  {
+    "name": "f54d9a57cd85bef55aeb85e1df2663a804cc1f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 68
+  },
+  {
+    "name": ".\\.git\\objects\\98",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3029
+  },
+  {
+    "name": "17d094c8e1709b5b1785a480d41d43fc9e35a2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2471
+  },
+  {
+    "name": "4c45dfbdd2b5b5a36cf26fff853559165e9a3d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 558
+  },
+  {
+    "name": ".\\.git\\objects\\9a",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 893
+  },
+  {
+    "name": "adeb8ddd2bda68298dbfb7ad1667ed405d73b7",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 893
+  },
+  {
+    "name": ".\\.git\\objects\\9c",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 741
+  },
+  {
+    "name": "82eaaaf2f0cf76d613849c6a9d310e278a48cd",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 741
+  },
+  {
+    "name": ".\\.git\\objects\\9d",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 619
+  },
+  {
+    "name": "1dcfdaf1a6857c5f83dc27019c7600e1ffaff8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": "cffd7e0f5080f74e695fc2f020050e1d32cc68",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 563
+  },
+  {
+    "name": ".\\.git\\objects\\9e",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 460
+  },
+  {
+    "name": "32a17e4f1ff05d13f927674585dcbd1c75e522",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 265
+  },
+  {
+    "name": "d62b96c4f76ee88148c5e0daf7aac4e6971287",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 195
+  },
+  {
+    "name": ".\\.git\\objects\\9f",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1810
+  },
+  {
+    "name": "c83e29fbbd3a53c8333da0b1bc770affd7785b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1810
+  },
+  {
+    "name": ".\\.git\\objects\\a0",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2945
+  },
+  {
+    "name": "1a0b9d9c51c5ff5d1c86bd0a92d0002e1688de",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 90
+  },
+  {
+    "name": "47478f22dcbbc54717bd27762297a5ecb62302",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 90
+  },
+  {
+    "name": "ee817ab5226d975c1f00a9d3150835ec12f492",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2765
+  },
+  {
+    "name": ".\\.git\\objects\\a1",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 83
+  },
+  {
+    "name": "1c7491d65155c8453ebda213bfcb365f080939",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 83
+  },
+  {
+    "name": ".\\.git\\objects\\a2",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 101
+  },
+  {
+    "name": "d64dfaf6e70c53b70ea937c99c9b5d3f1abf89",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 101
+  },
+  {
+    "name": ".\\.git\\objects\\a3",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 760
+  },
+  {
+    "name": "6ee8f459af713d555892bc8ff2eba91f65c2db",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 588
+  },
+  {
+    "name": "f9f593263e94bb6916eaafbc6b9808ed3b4a99",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 172
+  },
+  {
+    "name": ".\\.git\\objects\\a4",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4970
+  },
+  {
+    "name": "53230361624e0abd26576ba9c3e912e91950f0",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3199
+  },
+  {
+    "name": "8c6de8029bec60d0f64b2d7819647a5b96890f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1407
+  },
+  {
+    "name": "9c91b46caefde9f007bbbb061e261b2a66f98b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 364
+  },
+  {
+    "name": ".\\.git\\objects\\a7",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 233
+  },
+  {
+    "name": "07345dd9860dd6f8f02aedb185c00bfa3bf677",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 233
+  },
+  {
+    "name": ".\\.git\\objects\\a8",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1028
+  },
+  {
+    "name": "b5cafb52d9c2f5545df6abbdd3090d8065aa2f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1028
+  },
+  {
+    "name": ".\\.git\\objects\\a9",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 233
+  },
+  {
+    "name": "71a2c93136ccb7f8094a2783d905d33dff9163",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 147
+  },
+  {
+    "name": "926510a8708ca04e69763dbe229a87c09598c5",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 86
+  },
+  {
+    "name": ".\\.git\\objects\\aa",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4734
+  },
+  {
+    "name": "0e5c23d221af195a6d769534268adda6a55102",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1829
+  },
+  {
+    "name": "24d28da967a87043701c8fa4a24701eb916137",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 413
+  },
+  {
+    "name": "3a79e9d0ef112ee9fdac32e0014124ea173e2b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2492
+  },
+  {
+    "name": ".\\.git\\objects\\ab",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 16258
+  },
+  {
+    "name": "05ac18298d52c92432320b1eb6f97b856eccc9",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 16207
+  },
+  {
+    "name": "bd2878058eeac3b0f1a08163305dc1e5cb1294",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 51
+  },
+  {
+    "name": ".\\.git\\objects\\ac",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 30
+  },
+  {
+    "name": "de9b5c22fc7f3a317ed3158d609736c5993c52",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 30
+  },
+  {
+    "name": ".\\.git\\objects\\af",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 174
+  },
+  {
+    "name": "ce6eafcb87e69f12b0a02b2f463065b764b410",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 174
+  },
+  {
+    "name": ".\\.git\\objects\\b0",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2208
+  },
+  {
+    "name": "085bafe081d2aed53e4c65ad481b26048b0fb0",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": "21f737b61a44aab2f75f4f76b1fb35533d14d0",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 317
+  },
+  {
+    "name": "82e923cc8839009a62899a9750c2fd9d94a851",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 100
+  },
+  {
+    "name": "a095053591b45cd60a8585cb63909bc12caa73",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1735
+  },
+  {
+    "name": ".\\.git\\objects\\b1",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 78
+  },
+  {
+    "name": "9ffe5b731e3f0512fac1c04fb9aa9f73ed2410",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 78
+  },
+  {
+    "name": ".\\.git\\objects\\b2",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4981
+  },
+  {
+    "name": "43b7f1659d5d120677102a28f33784271bc92c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": "5e0ebf7c28dce86de93badee54e3a9d1e17e7c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 763
+  },
+  {
+    "name": "e2345d6aff3ccb0ad085e99cd3afebd9f69e7d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 4045
+  },
+  {
+    "name": ".\\.git\\objects\\b3",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 127
+  },
+  {
+    "name": "b6f27f9010af83ded416bbcd48849d683d43e4",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 127
+  },
+  {
+    "name": ".\\.git\\objects\\b4",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 738
+  },
+  {
+    "name": "f29c1178a0c20b629c65abec616a8852042f71",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 738
+  },
+  {
+    "name": ".\\.git\\objects\\b5",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 37
+  },
+  {
+    "name": "657f05b53338083b9ed017683dd15da8e9405b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 37
+  },
+  {
+    "name": ".\\.git\\objects\\b6",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2013
+  },
+  {
+    "name": "47f2cf79a081d1c8da5725a522aacfd2dcb93a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 232
+  },
+  {
+    "name": "6020cf2ac6f8168c64e13ba20c14f36c3cefba",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1781
+  },
+  {
+    "name": ".\\.git\\objects\\b7",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3347
+  },
+  {
+    "name": "692a0eb4f1eb60f4327d7ac5e1ddb9b5f8fddb",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3347
+  },
+  {
+    "name": ".\\.git\\objects\\b8",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 635
+  },
+  {
+    "name": "f9c72a74cdd449c583a3d65c135bab15d3dff2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 635
+  },
+  {
+    "name": ".\\.git\\objects\\b9",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 31
+  },
+  {
+    "name": "03146279458028c07ab167673b121c0361f3af",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 31
+  },
+  {
+    "name": ".\\.git\\objects\\ba",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 503
+  },
+  {
+    "name": "83db7c8b64a9275840375cfc4f8e6c4f703601",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 186
+  },
+  {
+    "name": "cc7186130a288114adb7c485d12c2d005e48a4",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 317
+  },
+  {
+    "name": ".\\.git\\objects\\bb",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2393
+  },
+  {
+    "name": "955c3ee088989ce7a51eb97325020e9828d31c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2393
+  },
+  {
+    "name": ".\\.git\\objects\\bc",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3207
+  },
+  {
+    "name": "834e4237ecc99fa3a0d0bfca5e3b534dee6b40",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": "b0cb0584e367c0fc14454505bfd660618c43f6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3034
+  },
+  {
+    "name": ".\\.git\\objects\\bd",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1315
+  },
+  {
+    "name": "0d3898bb948f48b30689ee28441d3470705312",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 505
+  },
+  {
+    "name": "da10b0d19334d5ae13384dc9ac7560083425ee",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 810
+  },
+  {
+    "name": ".\\.git\\objects\\be",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4857
+  },
+  {
+    "name": "13fcc947e3bac307bf9133d3321e476ca2282b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3188
+  },
+  {
+    "name": "319b453df7732ffa488cc9e12f4281a92e0dca",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 791
+  },
+  {
+    "name": "4d2d6cf66a1a11ec7f7dd452d5c84630221404",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 642
+  },
+  {
+    "name": "c6a65bd2289f013c5abdadf4fc4dcb0980df59",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 65
+  },
+  {
+    "name": "e0f02a4426dbad8929e1fddaac4a31a1006dff",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 171
+  },
+  {
+    "name": ".\\.git\\objects\\c0",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 334
+  },
+  {
+    "name": "40e9a9b8daebd33c4f7224f9271e1f923454b5",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 207
+  },
+  {
+    "name": "6899d26a137d8dbb6e818c4b7dbecf639a37da",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 127
+  },
+  {
+    "name": ".\\.git\\objects\\c2",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4354
+  },
+  {
+    "name": "401eead8a5fa9ca8dd4460f11ee7f85d23726d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 588
+  },
+  {
+    "name": "7342b3821d68d220b4bdf01c8a4abed2e8298a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 68
+  },
+  {
+    "name": "73d3417e2208e4dfa96920df2f594c4cc049f7",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 96
+  },
+  {
+    "name": "ab452788eb5842cf7af0d2286f9f94e65b6939",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3091
+  },
+  {
+    "name": "c4ac368935e5363762a3714f3c86495c7687bf",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 511
+  },
+  {
+    "name": ".\\.git\\objects\\c3",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 260
+  },
+  {
+    "name": "a4fe0058fe5e2b038f83b3f3f8ff9cefa7cb8f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 260
+  },
+  {
+    "name": ".\\.git\\objects\\c4",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 245
+  },
+  {
+    "name": "c9d194af6473e1bbec54fd52af0839182774e1",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": "d59474acbc96cc5bee9f594a75eb5fbf0c40c6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 189
+  },
+  {
+    "name": ".\\.git\\objects\\c5",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 580
+  },
+  {
+    "name": "458032ccd1b411aa37950f6d2d63ef20094233",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 186
+  },
+  {
+    "name": "8300910652846827fb07ab657e0649aa3f51d6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 240
+  },
+  {
+    "name": "c27e7bb69e1ab19c54227395d56dc453f47afe",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 154
+  },
+  {
+    "name": ".\\.git\\objects\\c6",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3925
+  },
+  {
+    "name": "86927b6bde752ecdd510710927ec6ac6824117",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3826
+  },
+  {
+    "name": "f2ffba8a58a8b52a9edbda4dc80e0ce91ef9bd",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 99
+  },
+  {
+    "name": ".\\.git\\objects\\c9",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 5432
+  },
+  {
+    "name": "a20b7ebabc37433b8e2643d9c41742d6275345",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2051
+  },
+  {
+    "name": "c0c5f907a827c044ddc1ddbfe67e6b27826f30",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 231
+  },
+  {
+    "name": "f537bae2376dcb6335631d907b878fb9efc22e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3150
+  },
+  {
+    "name": ".\\.git\\objects\\ca",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1568
+  },
+  {
+    "name": "2d7d53a3eea97bef2e4e61cf28ca67a1869b19",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 67
+  },
+  {
+    "name": "9d8c72414c618fc02e8663359a52089bcd3792",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 791
+  },
+  {
+    "name": "bb963652dd664b57da892b105af615bf615d1c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 710
+  },
+  {
+    "name": ".\\.git\\objects\\cb",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1448
+  },
+  {
+    "name": "076bfc1263a2df4137d3f29d553bbc9dab90ea",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1277
+  },
+  {
+    "name": "66441a1e005d32dd95bd5f482a7a8e3cec9b95",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 171
+  },
+  {
+    "name": ".\\.git\\objects\\cc",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 8117
+  },
+  {
+    "name": "8232ae805f76f294c951605f0847f4eec2e97b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3460
+  },
+  {
+    "name": "96c6123f3037ee39d1e9821418fb092b9ed314",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3927
+  },
+  {
+    "name": "fe56ec8ad725158fbbfc43febc06b7ef2d4880",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 730
+  },
+  {
+    "name": ".\\.git\\objects\\cd",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 712
+  },
+  {
+    "name": "4509cafe05cf912345b0a0131d6ae164e01822",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 254
+  },
+  {
+    "name": "5a274827c7f07aafb4ca0baa2ddf95c37ea6c8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 275
+  },
+  {
+    "name": "71cb3730e5e4d1ce8ecf38367863ef0282b75d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 127
+  },
+  {
+    "name": "95369cbdd47e67c6a3753890aa069cbcb16f39",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": ".\\.git\\objects\\ce",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 25726
+  },
+  {
+    "name": "056caf8d52599a99328d778018d4ff130ca5b4",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 25628
+  },
+  {
+    "name": "c59be9a9d2867e2954018921e74fd11238db08",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 98
+  },
+  {
+    "name": ".\\.git\\objects\\cf",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 148
+  },
+  {
+    "name": "0f47a382c8ede90120b3159a92a4ddbc7d2002",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 148
+  },
+  {
+    "name": ".\\.git\\objects\\d0",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1673
+  },
+  {
+    "name": "05b1dd5dbeaa652aca6208647f6f34797eaf80",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 773
+  },
+  {
+    "name": "5a049367a5a2a84486f76ee87bf3db931d8ea2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 690
+  },
+  {
+    "name": "876a78d06ac03b5d78c8dcdb95570281c6f1d6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 210
+  },
+  {
+    "name": ".\\.git\\objects\\d1",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 453
+  },
+  {
+    "name": "01c82a5636c212e5a92c17981df4862f7a3f1e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 127
+  },
+  {
+    "name": "b3039fb44eb7a86a95d0d19144adc8a6b640b2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 326
+  },
+  {
+    "name": ".\\.git\\objects\\d2",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3543
+  },
+  {
+    "name": "3ea3d334b55dc4afc09b502191609a40f630f8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3543
+  },
+  {
+    "name": ".\\.git\\objects\\d3",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 236
+  },
+  {
+    "name": "4527f9bbf4f5ed1180c310a9b66e6c8a71b386",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 35
+  },
+  {
+    "name": "9e7d59874c6da59ef9332ea189504e5898a9a5",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 135
+  },
+  {
+    "name": "b76e11e499710b30f72d8fc47e9819b3565f3f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 66
+  },
+  {
+    "name": ".\\.git\\objects\\d4",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3268
+  },
+  {
+    "name": "163542503b16afb64916cade626fc73daf89b5",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 127
+  },
+  {
+    "name": "23ea1a42b3246f8a6bd5863215ca732927c926",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 765
+  },
+  {
+    "name": "2aed22ba49ed2a066156cbfe102945b4354c06",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2201
+  },
+  {
+    "name": "4a7edfa8273bdd505f47ba5c133fa027acecfb",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 175
+  },
+  {
+    "name": ".\\.git\\objects\\d5",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2534
+  },
+  {
+    "name": "5267bac51d6aecf2c00d2f044cd20c5449dac1",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2534
+  },
+  {
+    "name": ".\\.git\\objects\\d6",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 302
+  },
+  {
+    "name": "04a50bb3dfd6aa15833d1b1d429443ea3a9e1a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 177
+  },
+  {
+    "name": "ab87f319be9cfe70372eed82e11229fc2e8b08",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 125
+  },
+  {
+    "name": ".\\.git\\objects\\d7",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4824
+  },
+  {
+    "name": "1196159765ae42598fd44f9d945c455a45b577",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1212
+  },
+  {
+    "name": "208ac6959e8c2fc2e94572d947569c02f2a4f1",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3232
+  },
+  {
+    "name": "38ad8eb9907e14cbce37151b390c416b242bc8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 266
+  },
+  {
+    "name": "d983aecca18629c2d0289207e682c3da42eb45",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 114
+  },
+  {
+    "name": ".\\.git\\objects\\d8",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1464
+  },
+  {
+    "name": "582aabfb3599dabe214f07102115035d32e1c7",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1464
+  },
+  {
+    "name": ".\\.git\\objects\\d9",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 966
+  },
+  {
+    "name": "aa211941e1a7f7170bb29147bdf49110a202e7",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 100
+  },
+  {
+    "name": "ea960a3a01eeec99da4693a45d7f78824d233d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 706
+  },
+  {
+    "name": "f3868e40bbc338ddde88eb8a623d8c34c36d35",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 160
+  },
+  {
+    "name": ".\\.git\\objects\\da",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 966
+  },
+  {
+    "name": "28771f4a1d9da53d8001d91e8cfd27a246101d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 193
+  },
+  {
+    "name": "2a7cb18cb55c854b733f17030f22a562a59338",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 126
+  },
+  {
+    "name": "981aa0b3baf335ac04427a44d43cb7bf8aed09",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 647
+  },
+  {
+    "name": ".\\.git\\objects\\db",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4378
+  },
+  {
+    "name": "20153322a2621ca55416143fd9da3efca1baee",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 654
+  },
+  {
+    "name": "bb77d5230f3921e5d6c5fd8215132adb6eb5f0",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3533
+  },
+  {
+    "name": "f13efa07f4773980985dcba0f09bb080a30df0",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 191
+  },
+  {
+    "name": ".\\.git\\objects\\dc",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3417
+  },
+  {
+    "name": "4148a5ebfcb8c1c3fbd21490d97d3eda35c52c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3192
+  },
+  {
+    "name": "583150a12412f996471c7d0e9a1064f74451a7",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 225
+  },
+  {
+    "name": ".\\.git\\objects\\dd",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3144
+  },
+  {
+    "name": "8b6786e001f295557f3d8983bba880eab33029",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2010
+  },
+  {
+    "name": "da21ebfc0ad6be0b4f669d5748340f69e290c4",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 623
+  },
+  {
+    "name": "f17246eb247e9767c6d067ced50dbd93317262",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 79
+  },
+  {
+    "name": "fc22c49da1bf744ad053f6405ab79702c8fcf9",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 333
+  },
+  {
+    "name": "fdb7a5bee5d04280992dd0d4387de6faf29c07",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 99
+  },
+  {
+    "name": ".\\.git\\objects\\de",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 8704
+  },
+  {
+    "name": "57a69ac5dffb5bbaf0e5c4a2dfc4e81b290c8a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3639
+  },
+  {
+    "name": "8a3aa4f002dcfcfa9b180e2694c3fd95111b82",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 431
+  },
+  {
+    "name": "b5d660dac63d2fcb5739548556ed59ae6f1fce",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1056
+  },
+  {
+    "name": "e8e0100e70656b7575404bc3121884490e287f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 882
+  },
+  {
+    "name": "ef8d6b61c2f273e4fbe611d22e6e930455649b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2696
+  },
+  {
+    "name": ".\\.git\\objects\\df",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2450
+  },
+  {
+    "name": "133755d86f517b403c8ad30cf868f114af4d4d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2450
+  },
+  {
+    "name": ".\\.git\\objects\\e1",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1946
+  },
+  {
+    "name": "d9d039b62c040f96b2ade6c7635d8208015a3f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1946
+  },
+  {
+    "name": ".\\.git\\objects\\e3",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3362
+  },
+  {
+    "name": "02d96197b0a2b289db0d0b22effd7cb287f27d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3070
+  },
+  {
+    "name": "04f00b2acce8a2dd789fdc131fb7f740d2b7d0",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 100
+  },
+  {
+    "name": "e61a7cdef7f61dc0a13eb51f8eda66e4ed8dd6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 192
+  },
+  {
+    "name": ".\\.git\\objects\\e6",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 361
+  },
+  {
+    "name": "36b0d4625084576acf0ef6e1ae27b5de8cab80",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 15
+  },
+  {
+    "name": "cae82861694091aac6d53f01dd171045abc5e1",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": ".\\.git\\objects\\e7",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 766
+  },
+  {
+    "name": "adfad48655c8482e27eeb6b8d5e425cb6b4558",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 766
+  },
+  {
+    "name": ".\\.git\\objects\\e8",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1512
+  },
+  {
+    "name": "44a90215719637e33876b672ddb863f374a2cb",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1387
+  },
+  {
+    "name": "fb8bcddc116f8ca49c2617e0d2be42384c1559",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 125
+  },
+  {
+    "name": ".\\.git\\objects\\e9",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2433
+  },
+  {
+    "name": "6016c618eb2111a3eb95b5488682497bad9c34",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2433
+  },
+  {
+    "name": ".\\.git\\objects\\ea",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1988
+  },
+  {
+    "name": "ce32c8cbc50e1b21a4aa26bc46be0ca6f2201d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 232
+  },
+  {
+    "name": "dcc54cbec13f670518b2b81b3fa04a6643ef3e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 176
+  },
+  {
+    "name": "f58ba695793b349cc855253b5e614dfb63c62a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1580
+  },
+  {
+    "name": ".\\.git\\objects\\eb",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1948
+  },
+  {
+    "name": "e8e3143d6b6edf976ffbdac03e22bf3fc1813f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1948
+  },
+  {
+    "name": ".\\.git\\objects\\ec",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1207
+  },
+  {
+    "name": "0e8a35ed8d6937718d4e496ad3c56093a58745",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 292
+  },
+  {
+    "name": "37de129075c302ff9df50a87d8362973e3d3a2",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 126
+  },
+  {
+    "name": "503bc68d86f349a4d164dff483703879f10147",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 397
+  },
+  {
+    "name": "ddfbfa11b7ac94eb10431692e1b2e8640946f4",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 392
+  },
+  {
+    "name": ".\\.git\\objects\\ed",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 860
+  },
+  {
+    "name": "081c47f1066c946acd9eb29378f9c68f623b4e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 763
+  },
+  {
+    "name": "8b1fa16dcff26c345038b279d1671e13454c1e",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 97
+  },
+  {
+    "name": ".\\.git\\objects\\ee",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1037
+  },
+  {
+    "name": "7592906c00532b061c94bc51164d2c33edd5d8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 965
+  },
+  {
+    "name": "90210f5694008c59520d177dc57e65c6f4e547",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 72
+  },
+  {
+    "name": ".\\.git\\objects\\ef",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 10192
+  },
+  {
+    "name": "6578d424668337ffd658af89f9763825e7e293",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 4051
+  },
+  {
+    "name": "7441f5b9102339173284a66ded2ce57ba3b843",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 916
+  },
+  {
+    "name": "935ea7ec6bb459440f00e906e6eb231b144542",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1302
+  },
+  {
+    "name": "b1ffc3a4695b44f979866e24b09423faf1ef92",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3385
+  },
+  {
+    "name": "fc73acf49b3d3fcf921edc79952bcca940693b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 538
+  },
+  {
+    "name": ".\\.git\\objects\\f1",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 186
+  },
+  {
+    "name": "d61dd3c0d722b3b609956939693b9b0bacede3",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 186
+  },
+  {
+    "name": ".\\.git\\objects\\f2",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 183
+  },
+  {
+    "name": "3abe92f0bcf715ac5b953a278464f4a85d9ead",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 127
+  },
+  {
+    "name": "dd92a8e05ec0a54926df003120c822bf64307c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": ".\\.git\\objects\\f4",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 628
+  },
+  {
+    "name": "b51fc64b5cb40bf5626d920c1cd0061e70b157",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 520
+  },
+  {
+    "name": "cc7d8dfd2b5868829ca710f5002e79649ef2bb",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 108
+  },
+  {
+    "name": ".\\.git\\objects\\f5",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3349
+  },
+  {
+    "name": "81eb0a034058f209729c4e7bf5072ba9b09f20",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3349
+  },
+  {
+    "name": ".\\.git\\objects\\f6",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 2202
+  },
+  {
+    "name": "97227d5bfa05bde105e6d203687440cd074a0f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 2202
+  },
+  {
+    "name": ".\\.git\\objects\\f7",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 354
+  },
+  {
+    "name": "65e496ccee111bffb274e70174ee72da012d2c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 221
+  },
+  {
+    "name": "e198b4ebc55d18a227dc48a81236d03fa107d9",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 133
+  },
+  {
+    "name": ".\\.git\\objects\\f9",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 3810
+  },
+  {
+    "name": "20e86c6cb2f35e73f6f5583fb7463ee6f48e6a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 825
+  },
+  {
+    "name": "8a29dc7fd743716a47904fb2574489a079f3a7",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 279
+  },
+  {
+    "name": "9afbf8401cb11e974d542d00d6a9f42e547ce6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1193
+  },
+  {
+    "name": "ba826a4d463763b4f009205bcb53537a57b84a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 56
+  },
+  {
+    "name": "c0b3059aed73e8a5aa610ef38c0222b3019c8b",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 174
+  },
+  {
+    "name": "fbf266c76e1b870c6a441aebdb51e939157343",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1283
+  },
+  {
+    "name": ".\\.git\\objects\\fa",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 6617
+  },
+  {
+    "name": "276daa86a84d848d31d62d779fad4a70d1474f",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 98
+  },
+  {
+    "name": "52f843ddb5d1917379a158b3dc0088b3d248fa",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1142
+  },
+  {
+    "name": "87d9616e5145ac5a5ddcc4dbd1256c0ea622ff",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 271
+  },
+  {
+    "name": "c2e1c8c2a5f3bd485d0a2efbc3eca6d7270c2a",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 4554
+  },
+  {
+    "name": "eeb516b4b9e60c8c2568e910aaaca8239ebfa8",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 552
+  },
+  {
+    "name": ".\\.git\\objects\\fb",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1274
+  },
+  {
+    "name": "3e6b46868b16cb04c4938797d889770b787744",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1274
+  },
+  {
+    "name": ".\\.git\\objects\\fc",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 4478
+  },
+  {
+    "name": "2a5f1e7f7e174fda80023bf141f1d82763ba87",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 332
+  },
+  {
+    "name": "5afba366aeb20813f26314acc45c5229466506",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 797
+  },
+  {
+    "name": "b64a12a2de253fa922910bf51d60e704c1c57d",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3349
+  },
+  {
+    "name": ".\\.git\\objects\\fd",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1433
+  },
+  {
+    "name": "4775c73f3f88a3428d1190909990f402344dbb",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1315
+  },
+  {
+    "name": "d2e568c7be1d1e3131c863e2dd5f8acebb7715",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 118
+  },
+  {
+    "name": ".\\.git\\objects\\fe",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 22656
+  },
+  {
+    "name": "73a049c365075eade6f32e6694be978803735c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 18534
+  },
+  {
+    "name": "d4095d746f675dfe41f963048c562ec725d11c",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 127
+  },
+  {
+    "name": "dd83b8d38f3ced3768969bd6979a9d5ba6e5d6",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 3528
+  },
+  {
+    "name": "f6f3e6c9bbfeb54cca750112a1432236585217",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 467
+  },
+  {
+    "name": ".\\.git\\objects\\ff",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 144
+  },
+  {
+    "name": "03061a71dcc0fdbeae598c158f829312115f91",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 144
+  },
+  {
+    "name": ".\\.git\\objects\\info",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 0
+  },
+  {
+    "name": ".\\.git\\objects\\pack",
+    "parent": ".\\.git\\objects",
+    "type": "directory",
+    "size": 1778
+  },
+  {
+    "name": "pack-ff7b2169409fbcd3f6fc41302661ba8b84e80cf3.idx",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 1156
+  },
+  {
+    "name": "pack-ff7b2169409fbcd3f6fc41302661ba8b84e80cf3.pack",
+    "parent": ".\\.git\\objects",
+    "type": "file",
+    "size": 622
+  },
+  {
+    "name": ".\\.git\\refs",
+    "parent": ".\\.git",
+    "type": "directory",
+    "size": 112
+  },
+  {
+    "name": ".\\.git\\refs\\heads",
+    "parent": ".\\.git\\refs",
+    "type": "directory",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent": ".\\.git\\refs",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": ".\\.git\\refs\\remotes",
+    "parent": ".\\.git\\refs",
+    "type": "directory",
+    "size": 71
+  },
+  {
+    "name": ".\\.git\\refs\\remotes\\origin",
+    "parent": ".\\.git\\refs\\remotes",
+    "type": "directory",
+    "size": 71
+  },
+  {
+    "name": "HEAD",
+    "parent": ".\\.git\\refs\\remotes",
+    "type": "file",
+    "size": 30
+  },
+  {
+    "name": "main",
+    "parent": ".\\.git\\refs\\remotes",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": ".\\.git\\refs\\tags",
+    "parent": ".\\.git\\refs",
+    "type": "directory",
+    "size": 0
+  },
+  {
+    "name": ".\\.idea",
+    "parent": ".",
+    "type": "directory",
+    "size": 4555
+  },
+  {
+    "name": ".gitignore",
+    "parent": ".",
+    "type": "file",
+    "size": 50
+  },
+  {
+    "name": "16. Next-Python.iml",
+    "parent": ".",
+    "type": "file",
+    "size": 291
+  },
+  {
+    "name": "misc.xml",
+    "parent": ".",
+    "type": "file",
+    "size": 189
+  },
+  {
+    "name": "modules.xml",
+    "parent": ".",
+    "type": "file",
+    "size": 289
+  },
+  {
+    "name": "vcs.xml",
+    "parent": ".",
+    "type": "file",
+    "size": 172
+  },
+  {
+    "name": "workspace.xml",
+    "parent": ".",
+    "type": "file",
+    "size": 3390
+  },
+  {
+    "name": ".\\.idea\\inspectionProfiles",
+    "parent": ".\\.idea",
+    "type": "directory",
+    "size": 174
+  },
+  {
+    "name": "profiles_settings.xml",
+    "parent": ".\\.idea",
+    "type": "file",
+    "size": 174
+  },
+  {
+    "name": ".\\.vscode",
+    "parent": ".",
+    "type": "directory",
+    "size": 333
+  },
+  {
+    "name": "settings.json",
+    "parent": ".",
+    "type": "file",
+    "size": 39
+  },
+  {
+    "name": "tasks.json",
+    "parent": ".",
+    "type": "file",
+    "size": 294
+  },
+  {
+    "name": ".\\01_DZ",
+    "parent": ".",
+    "type": "directory",
+    "size": 11609
+  },
+  {
+    "name": "task1.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 11609
+  },
+  {
+    "name": ".\\01_lec",
+    "parent": ".",
+    "type": "directory",
+    "size": 78245
+  },
+  {
+    "name": "lec_1.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 78245
+  },
+  {
+    "name": ".\\01_sem",
+    "parent": ".",
+    "type": "directory",
+    "size": 18496
+  },
+  {
+    "name": "sem_1.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 18496
+  },
+  {
+    "name": ".\\02_DZ",
+    "parent": ".",
+    "type": "directory",
+    "size": 8719
+  },
+  {
+    "name": "task2.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 8719
+  },
+  {
+    "name": ".\\02_lec",
+    "parent": ".",
+    "type": "directory",
+    "size": 69305
+  },
+  {
+    "name": "file_0.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 12
+  },
+  {
+    "name": "file_1.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 12
+  },
+  {
+    "name": "file_3.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 12
+  },
+  {
+    "name": "file_5.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 12
+  },
+  {
+    "name": "file_7.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 12
+  },
+  {
+    "name": "file_9.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 12
+  },
+  {
+    "name": "lec_2.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 69233
+  },
+  {
+    "name": ".\\02_sem",
+    "parent": ".",
+    "type": "directory",
+    "size": 10752
+  },
+  {
+    "name": "sem_2.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 10752
+  },
+  {
+    "name": ".\\03_DZ",
+    "parent": ".",
+    "type": "directory",
+    "size": 14369
+  },
+  {
+    "name": "task3.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 14369
+  },
+  {
+    "name": ".\\03_lec",
+    "parent": ".",
+    "type": "directory",
+    "size": 72231
+  },
+  {
+    "name": "lec_3.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 72231
+  },
+  {
+    "name": ".\\03_sem",
+    "parent": ".",
+    "type": "directory",
+    "size": 13423
+  },
+  {
+    "name": "sem_3.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 13423
+  },
+  {
+    "name": ".\\04_DZ",
+    "parent": ".",
+    "type": "directory",
+    "size": 11897
+  },
+  {
+    "name": "task4.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 11897
+  },
+  {
+    "name": ".\\04_lec",
+    "parent": ".",
+    "type": "directory",
+    "size": 165844
+  },
+  {
+    "name": "lec_4.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 165844
+  },
+  {
+    "name": ".\\04_sem",
+    "parent": ".",
+    "type": "directory",
+    "size": 9861
+  },
+  {
+    "name": "sem_4.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 9861
+  },
+  {
+    "name": ".\\05_DZ",
+    "parent": ".",
+    "type": "directory",
+    "size": 6834
+  },
+  {
+    "name": "task5.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 6834
+  },
+  {
+    "name": ".\\05_lec",
+    "parent": ".",
+    "type": "directory",
+    "size": 42489
+  },
+  {
+    "name": "lec_5.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 42489
+  },
+  {
+    "name": ".\\05_sem",
+    "parent": ".",
+    "type": "directory",
+    "size": 18794
+  },
+  {
+    "name": "sem_5.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 18794
+  },
+  {
+    "name": ".\\06_DZ",
+    "parent": ".",
+    "type": "directory",
+    "size": 6355
+  },
+  {
+    "name": "ДЗ_6. 1.py",
+    "parent": ".",
+    "type": "file",
+    "size": 603
+  },
+  {
+    "name": "ДЗ_6. 2.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1074
+  },
+  {
+    "name": "ДЗ_6..3.py",
+    "parent": ".",
+    "type": "file",
+    "size": 646
+  },
+  {
+    "name": ".\\06_DZ\\Module",
+    "parent": ".\\06_DZ",
+    "type": "directory",
+    "size": 4032
+  },
+  {
+    "name": "Queen.py",
+    "parent": ".\\06_DZ",
+    "type": "file",
+    "size": 1507
+  },
+  {
+    "name": "__init__.py",
+    "parent": ".\\06_DZ",
+    "type": "file",
+    "size": 390
+  },
+  {
+    "name": ".\\06_DZ\\Module\\__pycache__",
+    "parent": ".\\06_DZ\\Module",
+    "type": "directory",
+    "size": 2135
+  },
+  {
+    "name": "Queen.cpython-311.pyc",
+    "parent": ".\\06_DZ\\Module",
+    "type": "file",
+    "size": 1945
+  },
+  {
+    "name": "__init__.cpython-311.pyc",
+    "parent": ".\\06_DZ\\Module",
+    "type": "file",
+    "size": 190
+  },
+  {
+    "name": ".\\06_lec",
+    "parent": ".",
+    "type": "directory",
+    "size": 69391
+  },
+  {
+    "name": "lec_6.ipynb",
+    "parent": ".",
+    "type": "file",
+    "size": 63795
+  },
+  {
+    "name": "super_module.py",
+    "parent": ".",
+    "type": "file",
+    "size": 276
+  },
+  {
+    "name": "task_01.py",
+    "parent": ".",
+    "type": "file",
+    "size": 31
+  },
+  {
+    "name": "task_02.py",
+    "parent": ".",
+    "type": "file",
+    "size": 66
+  },
+  {
+    "name": "task_03.py",
+    "parent": ".",
+    "type": "file",
+    "size": 230
+  },
+  {
+    "name": "task_04.py",
+    "parent": ".",
+    "type": "file",
+    "size": 180
+  },
+  {
+    "name": "task_05.py",
+    "parent": ".",
+    "type": "file",
+    "size": 113
+  },
+  {
+    "name": "task_06.py",
+    "parent": ".",
+    "type": "file",
+    "size": 103
+  },
+  {
+    "name": ".\\06_lec\\mathematical",
+    "parent": ".\\06_lec",
+    "type": "directory",
+    "size": 4597
+  },
+  {
+    "name": "advanced_math.py",
+    "parent": ".\\06_lec",
+    "type": "file",
+    "size": 489
+  },
+  {
+    "name": "base_math.py",
+    "parent": ".\\06_lec",
+    "type": "file",
+    "size": 799
+  },
+  {
+    "name": "__init__.py",
+    "parent": ".\\06_lec",
+    "type": "file",
+    "size": 79
+  },
+  {
+    "name": ".\\06_lec\\mathematical\\__pycache__",
+    "parent": ".\\06_lec\\mathematical",
+    "type": "directory",
+    "size": 3230
+  },
+  {
+    "name": "advanced_math.cpython-311.pyc",
+    "parent": ".\\06_lec\\mathematical",
+    "type": "file",
+    "size": 1118
+  },
+  {
+    "name": "base_math.cpython-311.pyc",
+    "parent": ".\\06_lec\\mathematical",
+    "type": "file",
+    "size": 1804
+  },
+  {
+    "name": "__init__.cpython-311.pyc",
+    "parent": ".\\06_lec\\mathematical",
+    "type": "file",
+    "size": 308
+  },
+  {
+    "name": ".\\06_sem",
+    "parent": ".",
+    "type": "directory",
+    "size": 11652
+  },
+  {
+    "name": ".\\06_sem\\games",
+    "parent": ".\\06_sem",
+    "type": "directory",
+    "size": 10782
+  },
+  {
+    "name": "main.py",
+    "parent": ".\\06_sem",
+    "type": "file",
+    "size": 552
+  },
+  {
+    "name": "main_quiz.py",
+    "parent": ".\\06_sem",
+    "type": "file",
+    "size": 768
+  },
+  {
+    "name": "module_quiz.py",
+    "parent": ".\\06_sem",
+    "type": "file",
+    "size": 913
+  },
+  {
+    "name": "task_1.py",
+    "parent": ".\\06_sem",
+    "type": "file",
+    "size": 352
+  },
+  {
+    "name": "task_2.py",
+    "parent": ".\\06_sem",
+    "type": "file",
+    "size": 1099
+  },
+  {
+    "name": "task_3.py",
+    "parent": ".\\06_sem",
+    "type": "file",
+    "size": 1106
+  },
+  {
+    "name": "task_6.py",
+    "parent": ".\\06_sem",
+    "type": "file",
+    "size": 2753
+  },
+  {
+    "name": "task_7.py",
+    "parent": ".\\06_sem",
+    "type": "file",
+    "size": 1486
+  },
+  {
+    "name": "__init__.py",
+    "parent": ".\\06_sem",
+    "type": "file",
+    "size": 0
+  },
+  {
+    "name": ".\\06_sem\\games\\__pycache__",
+    "parent": ".\\06_sem\\games",
+    "type": "directory",
+    "size": 1753
+  },
+  {
+    "name": "main_quiz.cpython-311.pyc",
+    "parent": ".\\06_sem\\games",
+    "type": "file",
+    "size": 877
+  },
+  {
+    "name": "module_quiz.cpython-311.pyc",
+    "parent": ".\\06_sem\\games",
+    "type": "file",
+    "size": 876
+  },
+  {
+    "name": ".\\06_sem\\__pycache__",
+    "parent": ".\\06_sem",
+    "type": "directory",
+    "size": 870
+  },
+  {
+    "name": "module_quiz.cpython-311.pyc",
+    "parent": ".\\06_sem",
+    "type": "file",
+    "size": 870
+  },
+  {
+    "name": ".\\07_DZ",
+    "parent": ".",
+    "type": "directory",
+    "size": 12943
+  },
+  {
+    "name": "main.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1116
+  },
+  {
+    "name": ".\\07_DZ\\futils",
+    "parent": ".\\07_DZ",
+    "type": "directory",
+    "size": 11827
+  },
+  {
+    "name": "rename.py",
+    "parent": ".\\07_DZ",
+    "type": "file",
+    "size": 2930
+  },
+  {
+    "name": "task_1.py",
+    "parent": ".\\07_DZ",
+    "type": "file",
+    "size": 941
+  },
+  {
+    "name": "task_2.py",
+    "parent": ".\\07_DZ",
+    "type": "file",
+    "size": 867
+  },
+  {
+    "name": "task_3.py",
+    "parent": ".\\07_DZ",
+    "type": "file",
+    "size": 1909
+  },
+  {
+    "name": "task_4.py",
+    "parent": ".\\07_DZ",
+    "type": "file",
+    "size": 1695
+  },
+  {
+    "name": "task_5.py",
+    "parent": ".\\07_DZ",
+    "type": "file",
+    "size": 675
+  },
+  {
+    "name": "task_6.py",
+    "parent": ".\\07_DZ",
+    "type": "file",
+    "size": 753
+  },
+  {
+    "name": "task_7.py",
+    "parent": ".\\07_DZ",
+    "type": "file",
+    "size": 1691
+  },
+  {
+    "name": "__init__.py",
+    "parent": ".\\07_DZ",
+    "type": "file",
+    "size": 92
+  },
+  {
+    "name": ".\\07_DZ\\futils\\__pycache__",
+    "parent": ".\\07_DZ\\futils",
+    "type": "directory",
+    "size": 274
+  },
+  {
+    "name": "__init__.cpython-311.pyc",
+    "parent": ".\\07_DZ\\futils",
+    "type": "file",
+    "size": 274
+  },
+  {
+    "name": ".\\07_lec",
+    "parent": ".",
+    "type": "directory",
+    "size": 22768
+  },
+  {
+    "name": "1.md",
+    "parent": ".",
+    "type": "file",
+    "size": 5699
+  },
+  {
+    "name": "bin_data",
+    "parent": ".",
+    "type": "file",
+    "size": 1200
+  },
+  {
+    "name": "data.bin",
+    "parent": ".",
+    "type": "file",
+    "size": 100
+  },
+  {
+    "name": "data.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 18
+  },
+  {
+    "name": "new_data.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 64
+  },
+  {
+    "name": "task_files_01.py",
+    "parent": ".",
+    "type": "file",
+    "size": 51
+  },
+  {
+    "name": "task_files_02.py",
+    "parent": ".",
+    "type": "file",
+    "size": 74
+  },
+  {
+    "name": "task_files_03.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1108
+  },
+  {
+    "name": "task_files_04.py",
+    "parent": ".",
+    "type": "file",
+    "size": 73
+  },
+  {
+    "name": "task_files_05.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1450
+  },
+  {
+    "name": "task_files_06.py",
+    "parent": ".",
+    "type": "file",
+    "size": 148
+  },
+  {
+    "name": "task_files_07.py",
+    "parent": ".",
+    "type": "file",
+    "size": 243
+  },
+  {
+    "name": "task_files_08.py",
+    "parent": ".",
+    "type": "file",
+    "size": 248
+  },
+  {
+    "name": "task_files_09.py",
+    "parent": ".",
+    "type": "file",
+    "size": 75
+  },
+  {
+    "name": "task_files_10.py",
+    "parent": ".",
+    "type": "file",
+    "size": 247
+  },
+  {
+    "name": "task_files_11.py",
+    "parent": ".",
+    "type": "file",
+    "size": 119
+  },
+  {
+    "name": "task_files_12.py",
+    "parent": ".",
+    "type": "file",
+    "size": 225
+  },
+  {
+    "name": "task_files_13.py",
+    "parent": ".",
+    "type": "file",
+    "size": 125
+  },
+  {
+    "name": "task_files_14.py",
+    "parent": ".",
+    "type": "file",
+    "size": 386
+  },
+  {
+    "name": "task_files_15.py",
+    "parent": ".",
+    "type": "file",
+    "size": 152
+  },
+  {
+    "name": "task_files_16.py",
+    "parent": ".",
+    "type": "file",
+    "size": 187
+  },
+  {
+    "name": "task_files_17.py",
+    "parent": ".",
+    "type": "file",
+    "size": 393
+  },
+  {
+    "name": "task_files_18.py",
+    "parent": ".",
+    "type": "file",
+    "size": 400
+  },
+  {
+    "name": "task_files_19.py",
+    "parent": ".",
+    "type": "file",
+    "size": 380
+  },
+  {
+    "name": "task_files_20.py",
+    "parent": ".",
+    "type": "file",
+    "size": 378
+  },
+  {
+    "name": "task_files_21.py",
+    "parent": ".",
+    "type": "file",
+    "size": 364
+  },
+  {
+    "name": "task_files_22.py",
+    "parent": ".",
+    "type": "file",
+    "size": 569
+  },
+  {
+    "name": "task_files_23.py",
+    "parent": ".",
+    "type": "file",
+    "size": 766
+  },
+  {
+    "name": "task_files_24.py",
+    "parent": ".",
+    "type": "file",
+    "size": 563
+  },
+  {
+    "name": "task_files_25.py",
+    "parent": ".",
+    "type": "file",
+    "size": 95
+  },
+  {
+    "name": "task_files_26.py",
+    "parent": ".",
+    "type": "file",
+    "size": 282
+  },
+  {
+    "name": "task_ts_01.py",
+    "parent": ".",
+    "type": "file",
+    "size": 268
+  },
+  {
+    "name": "task_ts_02.py",
+    "parent": ".",
+    "type": "file",
+    "size": 427
+  },
+  {
+    "name": "task_ts_03.py",
+    "parent": ".",
+    "type": "file",
+    "size": 260
+  },
+  {
+    "name": "task_ts_04.py",
+    "parent": ".",
+    "type": "file",
+    "size": 480
+  },
+  {
+    "name": "task_ts_05.py",
+    "parent": ".",
+    "type": "file",
+    "size": 352
+  },
+  {
+    "name": "task_ts_06.py",
+    "parent": ".",
+    "type": "file",
+    "size": 291
+  },
+  {
+    "name": "task_ts_07.py",
+    "parent": ".",
+    "type": "file",
+    "size": 255
+  },
+  {
+    "name": "task_ts_08.py",
+    "parent": ".",
+    "type": "file",
+    "size": 178
+  },
+  {
+    "name": "task_ts_09.py",
+    "parent": ".",
+    "type": "file",
+    "size": 540
+  },
+  {
+    "name": "task_ts_10.py",
+    "parent": ".",
+    "type": "file",
+    "size": 803
+  },
+  {
+    "name": "task_ts_11.py",
+    "parent": ".",
+    "type": "file",
+    "size": 578
+  },
+  {
+    "name": "task_ts_12.py",
+    "parent": ".",
+    "type": "file",
+    "size": 518
+  },
+  {
+    "name": "task_ts_13.py",
+    "parent": ".",
+    "type": "file",
+    "size": 327
+  },
+  {
+    "name": "task_ts_14.py",
+    "parent": ".",
+    "type": "file",
+    "size": 53
+  },
+  {
+    "name": "task_ts_15.py",
+    "parent": ".",
+    "type": "file",
+    "size": 233
+  },
+  {
+    "name": "task_ts_16.py",
+    "parent": ".",
+    "type": "file",
+    "size": 116
+  },
+  {
+    "name": "task_ts_17.py",
+    "parent": ".",
+    "type": "file",
+    "size": 521
+  },
+  {
+    "name": "text_data.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 386
+  },
+  {
+    "name": ".\\07_sem",
+    "parent": ".",
+    "type": "directory",
+    "size": 4892
+  },
+  {
+    "name": "new_file.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 65
+  },
+  {
+    "name": "new_file1.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 80
+  },
+  {
+    "name": "res.txt",
+    "parent": ".",
+    "type": "file",
+    "size": 155
+  },
+  {
+    "name": "task_1.py",
+    "parent": ".",
+    "type": "file",
+    "size": 941
+  },
+  {
+    "name": "task_2.1.py",
+    "parent": ".",
+    "type": "file",
+    "size": 875
+  },
+  {
+    "name": "task_2.py",
+    "parent": ".",
+    "type": "file",
+    "size": 867
+  },
+  {
+    "name": "task_3.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1909
+  },
+  {
+    "name": ".\\08_DZ",
+    "parent": ".",
+    "type": "directory",
+    "size": 10955
+  },
+  {
+    "name": "main.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1703
+  },
+  {
+    "name": "task_3.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1422
+  },
+  {
+    "name": "task_4.py",
+    "parent": ".",
+    "type": "file",
+    "size": 2102
+  },
+  {
+    "name": "task_5.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1043
+  },
+  {
+    "name": "task_6.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1329
+  },
+  {
+    "name": "task_7.py",
+    "parent": ".",
+    "type": "file",
+    "size": 817
+  },
+  {
+    "name": "task_8.py",
+    "parent": ".",
+    "type": "file",
+    "size": 2452
+  },
+  {
+    "name": "__init__.py",
+    "parent": ".",
+    "type": "file",
+    "size": 87
+  },
+  {
+    "name": ".\\08_lec",
+    "parent": ".",
+    "type": "directory",
+    "size": 24350
+  },
+  {
+    "name": "biostats.csv",
+    "parent": ".",
+    "type": "file",
+    "size": 442
+  },
+  {
+    "name": "biostats_new.csv",
+    "parent": ".",
+    "type": "file",
+    "size": 52
+  },
+  {
+    "name": "biostats_tab.csv",
+    "parent": ".",
+    "type": "file",
+    "size": 438
+  },
+  {
+    "name": "my_dict.pickle",
+    "parent": ".",
+    "type": "file",
+    "size": 179
+  },
+  {
+    "name": "new_biostats.csv",
+    "parent": ".",
+    "type": "file",
+    "size": 49
+  },
+  {
+    "name": "new_user.json",
+    "parent": ".",
+    "type": "file",
+    "size": 264
+  },
+  {
+    "name": "quest.csv",
+    "parent": ".",
+    "type": "file",
+    "size": 244
+  },
+  {
+    "name": "quest.pickle",
+    "parent": ".",
+    "type": "file",
+    "size": 407
+  },
+  {
+    "name": "task_csv_01.py",
+    "parent": ".",
+    "type": "file",
+    "size": 764
+  },
+  {
+    "name": "task_csv_02.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1467
+  },
+  {
+    "name": "task_csv_03.py",
+    "parent": ".",
+    "type": "file",
+    "size": 3366
+  },
+  {
+    "name": "task_csv_04.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1270
+  },
+  {
+    "name": "task_csv_05.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1138
+  },
+  {
+    "name": "task_csv_06.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1694
+  },
+  {
+    "name": "task_csv_07.py",
+    "parent": ".",
+    "type": "file",
+    "size": 446
+  },
+  {
+    "name": "task_json_01.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1168
+  },
+  {
+    "name": "task_json_02.py",
+    "parent": ".",
+    "type": "file",
+    "size": 2130
+  },
+  {
+    "name": "task_json_03.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1090
+  },
+  {
+    "name": "task_json_04.py",
+    "parent": ".",
+    "type": "file",
+    "size": 125
+  },
+  {
+    "name": "task_json_05.py",
+    "parent": ".",
+    "type": "file",
+    "size": 814
+  },
+  {
+    "name": "task_json_06.py",
+    "parent": ".",
+    "type": "file",
+    "size": 523
+  },
+  {
+    "name": "task_json_07.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1906
+  },
+  {
+    "name": "task_json_08.py",
+    "parent": ".",
+    "type": "file",
+    "size": 148
+  },
+  {
+    "name": "task_pickle_01.py",
+    "parent": ".",
+    "type": "file",
+    "size": 490
+  },
+  {
+    "name": "task_pickle_02.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1531
+  },
+  {
+    "name": "task_pickle_03.py",
+    "parent": ".",
+    "type": "file",
+    "size": 265
+  },
+  {
+    "name": "task_pickle_04.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1113
+  },
+  {
+    "name": "task_pickle_05.py",
+    "parent": ".",
+    "type": "file",
+    "size": 270
+  },
+  {
+    "name": "user.json",
+    "parent": ".",
+    "type": "file",
+    "size": 557
+  },
+  {
+    "name": ".\\08_sem",
+    "parent": ".",
+    "type": "directory",
+    "size": 3563
+  },
+  {
+    "name": "task_1.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1001
+  },
+  {
+    "name": "task_2.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1539
+  },
+  {
+    "name": "task_3.py",
+    "parent": ".",
+    "type": "file",
+    "size": 1023
+  }
+]
