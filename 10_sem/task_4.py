@@ -5,7 +5,7 @@
 шестизначный идентификационный номер
 уровень доступа вычисляемый как остаток от деления суммы цифр id на семь
 """
-from task03 import Person
+from task_3 import Person
 from random import randint as rnd
 
 
