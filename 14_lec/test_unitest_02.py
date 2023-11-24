@@ -1,0 +1,38 @@
+# Сравнение тестов doctest и unittest
+
+import io
+import unittest
+from unittest.mock import patch
+
+from prime_unittest import is_prime
+
+
+class TestPrime(unittest.TestCase):
+    
+    def test_is_prime(self):
+        self.assertFalse(is_prime(42))
+        self.assertTrue(is_prime(42))
+        
+    def test_type(self):
+        self.assertRaises(TypeError, is_prime, 3,14)
+        
+    def test_value(self):
+        with self.assertRaises(ValueError):
+            is_prime(-100)
+            is_prime(1)
+                         
+    @patch('sys.stdout', new_callable=io.StringIO)
+    def test_warning_false(self, mocK_stdout):
+        self.assertFalse(is_prime(100_000_001))
+        self.assertEqual(mocK_stdout.getvalue(),
+                         If the number P is prime, the check may take a longe tame. Working...\n')
+        
+    @patch('sys.stdout', new_callable=io.StringIO)
+    def test_warning_false(self, mocK_stdout):
+        self.assertTrue(is_prime(100_000_007))
+        self.assertEqual(mocK_stdout.getvalue(),
+                         If the number P is prime, the check may take a longe tame. Working...\n')
+        
+        
+if __name__== '__main__':
+    unittest.main(verbosity=2)
